@@ -8,7 +8,7 @@
 | - | ICML  | Feb 04 (Jul 18) | AI, ML, DM | A | [icml2022](https://icml.cc/Conferences/FutureMeetings) |
 | - | SIGKDD  | Feb 08 (Aug 14) | AI, ML, DM | A | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) |
 | **March** | VLDB  | Mar 01 (Aug 16) | DM | A | [vldb2021](https://vldb.org/2021/) |
-| - | IEEE CASE (Aug 23)  | Mar 15 | Automation | - | [case2021](https://case2021.sciencesconf.org/) |
+| - | IEEE CASE  | Mar 15 (Aug 23) | Automation | - | [case2021](https://case2021.sciencesconf.org/) |
 | - | ICCV  | Mar 17 (Oct 11) | CV | A | [iccv2021](http://iccv2021.thecvf.com) |
 | **Apr** | -  | - | - | - | - |
 | **May** | CIKM  | May 01 (Nov 01) | DM | B | [ickm2021](https://www.cikm2021.org) |
