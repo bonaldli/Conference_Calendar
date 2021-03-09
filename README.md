@@ -29,7 +29,8 @@ AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer
 | **Dec** | -  | - | - | - | - |
 
 
-
+Reference:
+1. https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
 
 
 
