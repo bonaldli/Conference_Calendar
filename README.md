@@ -1,5 +1,7 @@
 # Conference_Calender
 ----------------------------------------------
+AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer Vision, NLP: Natural Language Process, 
+
 | Month | Conference | DDL (Conference Day) | Area | Tier-Ranking | Website |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | **Jan** | IJCAI | Jan 18 (Aug 21) | AI, ML, DM | A | [icjai2022](https://www.ijcai.org/future_conferences) |
