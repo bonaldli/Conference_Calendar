@@ -18,6 +18,8 @@ AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer
 | **Jun** | **IEEE-ICDE-R1**  | Jun 10 (Dec 20) | DM | A | [icde2021](https://icde2021.gr/) |
 | - | IEEE-ICDM  | Jun 11 (Dec 07) | DM | B | [icdm2021](https://icdm2021.auckland.ac.nz/) |
 | **Jul** | SIGMOD | Jul 07 (Jun 20) | DM | B | [sigmod2022](https://2021.sigmod.org/index.shtml) |
+| - | INFORMS Data Mining Paper Award | Jul 15 (Oct 20) | DM | - | [informs-dm](https://connect.informs.org/data-mining/home) |
+| - | INFORMS QSR Paper Award | Jul 15 (Oct 24) | Statistics | - | [informs-qsr](https://connect.informs.org/qsr/home) |
 | **Aug** | WSDM  | Aug 16 (Mar 08) | DM | B | [wsdm2022](http://www.wsdm-conference.org/calls.php) |
 | **Sep** | **AAAI**  | Sep 09 (Feb 02) | AI, ML, DM | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) |
 | **Oct** | **IEEE-ICDE-R2**  | Oct 07 (Apr 19) | DM | A | [icde2021](https://icde2021.gr/) |
@@ -26,6 +28,7 @@ AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer
 | - | ICLR  | Oct 02 (May 04) | NLP | A | [iclr2021](https://iclr.cc/Conferences/2021) |
 | - | ICRA  | Oct 31 (May 30) | Robotics, Automation | B | [icra2021](https://www.icra2022.org/) |
 | **Nov** | CVPR  | Nov 16 (Jun 21) | CV, Pattern Recognition | A | [cvpr2021](http://cvpr2021.thecvf.com) |
+| - | **ICDE-PhD**  | Nov 30 (Apr 10) | AI, ML, DM | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) |
 | **Dec** | -  | - | - | - | - |
 
 
