@@ -3,10 +3,10 @@
 | Month | Conference | DDL (Conference Day) | Area | Tier-Ranking | Website |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Jan | IJCAI | Jan 18 (Aug 21) | AI, ML, DM | A | [icjai2022](https://www.ijcai.org/future_conferences) |
-| Feb | ACL | Feb 01 (Aug 01) | NLP | A | [acl2021](https://2021.aclweb.org) |
-| Feb | SIGIR | Feb 02 (Jul 11) | AI, ML, DM | A | [sigir2021](https://sigir.org/sigir2021/) |
-| Feb | ICML  | Feb 04 (Jul 18) | AI, ML, DM | A | [icml2022](https://icml.cc/Conferences/FutureMeetings) |
-| Feb | SIGKDD  | Feb 08 (Aug 14) | AI, ML, DM | A | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) |
+| **Feb** | ACL | Feb 01 (Aug 01) | NLP | A | [acl2021](https://2021.aclweb.org) |
+| - | SIGIR | Feb 02 (Jul 11) | AI, ML, DM | A | [sigir2021](https://sigir.org/sigir2021/) |
+| - | ICML  | Feb 04 (Jul 18) | AI, ML, DM | A | [icml2022](https://icml.cc/Conferences/FutureMeetings) |
+| - | SIGKDD  | Feb 08 (Aug 14) | AI, ML, DM | A | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) |
 | March | VLDB  | Mar 01 (Aug 16) | DM | A | [vldb2021](https://vldb.org/2021/) |
 | March | IEEE CASE (Aug 23)  | Mar 15 | Automation | - | [case2021](https://case2021.sciencesconf.org/) |
 | March | ICCV  | Mar 17 (Oct 11) | CV | A | [iccv2021](http://iccv2021.thecvf.com) |
