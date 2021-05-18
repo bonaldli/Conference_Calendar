@@ -15,7 +15,7 @@ AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer
 | **Apr** | -  | - | - | - | - |
 | **May** | CIKM  | May 19 (Nov 01) | DM | 3 | B | [ickm2021](https://www.cikm2021.org) |
 | - | NeurIPS  | May 19 (Dec 06) | ML, AI | 2 | A+ | [nips2021](https://nips.cc/) |
-| **Jun** | **IEEE-ICDE-R1**  | Jun 10 (Dec 20) | 2 | DM | A | [icde2021](https://icde2021.gr/) |
+| **Jun** | **IEEE-ICDE-R1**  | Jun 10 (Dec 20) | DM | 2 | A | [icde2021](https://icde2021.gr/) |
 | - | IEEE-ICDM  | Jun 11 (Dec 07) | DM | 5 | B | [icdm2021](https://icdm2021.auckland.ac.nz/) |
 | **Jul** | SIGMOD | Jul 07 (Jun 20) | DM | - | B | [sigmod2022](https://2021.sigmod.org/index.shtml) |
 | - | INFORMS Data Mining Paper Award | Jul 15 (Oct 20) | DM | - | - | [informs-dm](https://connect.informs.org/data-mining/home) |
