@@ -1,6 +1,6 @@
 # Conference_Calendar
 ----------------------------------------------
-AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer Vision, NLP: Natural Language Process, 
+**AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, 
 
 | Month | Conference | DDL (Conference Day) | Area | Google Scholar/Microsoft Ranking | CCF Ranking | Website |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
