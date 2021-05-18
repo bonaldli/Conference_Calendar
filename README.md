@@ -36,7 +36,7 @@ Reference:
 1. https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
 2. https://data-mining.philippe-fournier-viger.com/the-top-journals-and-conferences-in-data-mining-data-science/
 3. [Top Data Mining & Analysis in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis)
-4. [Top DArtificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
+4. [Top Artificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
 5. [Top Computational Linguistics in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)
 6. [Top Computer Vision & Pattern Recognition  in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 7. https://github.com/bonaldli/Conference_Calender/blob/main/top_tier_conference.pdf
