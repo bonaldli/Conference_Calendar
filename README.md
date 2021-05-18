@@ -9,7 +9,7 @@
 | **Feb** | ACL | - | Feb 01 (Aug 01) | NLP | 1 | A | [acl2021](https://2021.aclweb.org) |
 | - | SIGIR | - | Feb 02 (Jul 11) | AI, ML, DM | - | A | [sigir2021](https://sigir.org/sigir2021/) |
 | - | ICML  | - | Feb 04 (Jul 18) | AI, ML, DM | 3 | A | [icml2022](https://icml.cc/Conferences/FutureMeetings) |
-| - | **SIGKDD**  | p9+2 | Feb 08 (Aug 14) | AI, ML, DM | 1 | A | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) |
+| - | **SIGKDD**  | p9+2 (appdix) | Feb 08 (Aug 14) | AI, ML, DM | 1 | A | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) |
 | **March** | VLDB  | - | Mar 01 (Aug 16) | DM | - | A | [vldb2021](https://vldb.org/2021/) |
 | - | **IEEE CASE**  | p8 | Mar 15 (Aug 23) | Automation | - | - | [case2021](https://case2021.sciencesconf.org/) |
 | - | ICCV | - | Mar 17 (Oct 11) | CV | 2 | A | [iccv2021](http://iccv2021.thecvf.com) |
@@ -23,7 +23,7 @@
 | - | INFORMS QSR Paper Award | - | Jul 15 (Oct 24) | Statistics | - | - | [informs-qsr](https://connect.informs.org/qsr/home) |
 | **Aug** | WSDM  | - | Aug 16 (Mar 08) | DM | 4 | B | [wsdm2022](http://www.wsdm-conference.org/calls.php) |
 | **Sep** | IEEE BigData | - | Sept 05 (Dec 15) | DM | 8 | C | [bigdata2021](http://bigdataieee.org/BigData2021/) |
-| - | **AAAI**  | p7 | Sep 09 (Feb 02) | AI, ML, DM | 4 | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) |
+| - | **AAAI**  | p7+2 (ref) | Sep 09 (Feb 02) | AI, ML, DM | 4 | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) |
 | **Oct** | **IEEE-ICDE-R2**  | p12 | Oct 07 (Apr 19) | DM | 2 | A | [icde2021](https://icde2021.gr/) |
 | - | AISTATS | - | Oct 8 (Apr 13) | AI, Statistics, DM | 3 | C | [aistats](https://aistats.org/aistats2021/) |
 | - | SIAM-SDM  | - | Oct 12 (Apr 29) | DM | 12 | B | [sdm2021](https://www.siam.org/conferences/cm/conference/sdm21) |
@@ -31,7 +31,7 @@
 | - | ICLR  | - | Oct 02 (May 04) | NLP | 1 | A | [iclr2021](https://iclr.cc/Conferences/2021) |
 | - | ICRA  | - | Oct 31 (May 30) | Robotics, Automation | - | B | [icra2021](https://www.icra2022.org/) |
 | **Nov** | CVPR  | - | Nov 16 (Jun 21) | CV, Pattern Recognition | 1 | A | [cvpr2021](http://cvpr2021.thecvf.com) |
-| - | **ICDE-PhD**  | p5+1 | Nov 30 (Apr 10) | AI, ML, DM | 2 | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) |
+| - | **ICDE-PhD**  | p5+1 (ref) | Nov 30 (Apr 10) | AI, ML, DM | 2 | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) |
 | **Dec** | - | - | - | - | - | - | - |
 
 
