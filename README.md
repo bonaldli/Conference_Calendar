@@ -18,12 +18,12 @@
 | - | NeurIPS  | p8 | May 19 (Dec 06) | ML, AI | 2 | A+ | [nips2021](https://nips.cc/) |
 | **Jun** | **IEEE-ICDE-R1**  | p12 | Jun 10 (Dec 20) | DM | 2 | A | [icde2021](https://icde2021.gr/) |
 | - | IEEE-ICDM  | p10 | Jun 11 (Dec 07) | DM | 5 | B | [icdm2021](https://icdm2021.auckland.ac.nz/) |
-| **Jul** | SIGMOD | - | Jul 07 (Jun 20) | DM | - | B | [sigmod2022](https://2021.sigmod.org/index.shtml) |
+| **Jul** | SIGMOD | p12 | Jul 07 (Jun 20) | DM | - | B | [sigmod2022](https://2021.sigmod.org/index.shtml) |
 | - | INFORMS Data Mining Paper Award | - | Jul 15 (Oct 20) | DM | - | - | [informs-dm](https://connect.informs.org/data-mining/home) |
 | - | INFORMS QSR Paper Award | - | Jul 15 (Oct 24) | Statistics | - | - | [informs-qsr](https://connect.informs.org/qsr/home) |
 | **Aug** | WSDM  | - | Aug 16 (Mar 08) | DM | 4 | B | [wsdm2022](http://www.wsdm-conference.org/calls.php) |
 | **Sep** | IEEE BigData | - | Sept 05 (Dec 15) | DM | 8 | C | [bigdata2021](http://bigdataieee.org/BigData2021/) |
-| - | **AAAI**  | - | Sep 09 (Feb 02) | AI, ML, DM | 4 | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) |
+| - | **AAAI**  | p7 | Sep 09 (Feb 02) | AI, ML, DM | 4 | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) |
 | **Oct** | **IEEE-ICDE-R2**  | p12 | Oct 07 (Apr 19) | DM | 2 | A | [icde2021](https://icde2021.gr/) |
 | - | AISTATS | - | Oct 8 (Apr 13) | AI, Statistics, DM | 3 | C | [aistats](https://aistats.org/aistats2021/) |
 | - | SIAM-SDM  | - | Oct 12 (Apr 29) | DM | 12 | B | [sdm2021](https://www.siam.org/conferences/cm/conference/sdm21) |
