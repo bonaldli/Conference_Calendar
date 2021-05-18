@@ -39,10 +39,10 @@ Reference:
 1. [Real Time Updating Calendar](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
 2. [Data Mining Conference Acceptance Rate](https://github.com/bonaldli/data-mining-conferences)
 3. https://data-mining.philippe-fournier-viger.com/the-top-journals-and-conferences-in-data-mining-data-science/
-4. [Top Data Mining & Analysis in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis)
-5. [Top Artificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
-6. [Top Computational Linguistics in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)
-7. [Top Computer Vision & Pattern Recognition  in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+4. [H5 Index Data Mining & Analysis in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis)
+5. [H5 Index  Artificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
+6. [H5 Index  Computational Linguistics in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)
+7. [H5 Index  Computer Vision & Pattern Recognition  in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 8. https://github.com/bonaldli/Conference_Calender/blob/main/top_tier_conference.pdf
 
 
