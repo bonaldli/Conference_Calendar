@@ -39,7 +39,6 @@ Reference:
 4. [Top DArtificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
 5. [Top Computational Linguistics in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)
 6. [Top Computer Vision & Pattern Recognition  in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-7. 
-
+7. https://github.com/bonaldli/Conference_Calender/blob/main/top_tier_conference.pdf
 
 
