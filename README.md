@@ -22,7 +22,9 @@ AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer
 | - | INFORMS QSR Paper Award | Jul 15 (Oct 24) | Statistics | - | - | [informs-qsr](https://connect.informs.org/qsr/home) |
 | **Aug** | WSDM  | Aug 16 (Mar 08) | DM | 4 | B | [wsdm2022](http://www.wsdm-conference.org/calls.php) |
 | **Sep** | **AAAI**  | Sep 09 (Feb 02) | AI, ML, DM | 4 | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) |
+| - | IEEE BigData | Sept 05 (Dec 15) | DM | 8 | C | [bigdata2021](http://bigdataieee.org/BigData2021/) |
 | **Oct** | **IEEE-ICDE-R2**  | Oct 07 (Apr 19) | DM | 2 | A | [icde2021](https://icde2021.gr/) |
+| - | AISTATS | Oct 8 (Apr 13) | AI, Statistics, DM | 3 | C | [aistats](https://aistats.org/aistats2021/) |
 | - | SIAM-SDM  | Oct 12 (Apr 29) | DM | 12 | B | [sdm2021](https://www.siam.org/conferences/cm/conference/sdm21) |
 | - | WWW  | Oct 19 (Apr 19) | AI, ML, DM | - | A | [www2021](https://www2021.thewebconf.org/) |
 | - | ICLR  | Oct 02 (May 04) | NLP | 1 | A | [iclr2021](https://iclr.cc/Conferences/2021) |
@@ -33,7 +35,7 @@ AI: Artificial Intelligence, ML: Machine Learning, DM: Data Mining, CV: Computer
 
 
 Reference:
-1. https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
+1. [Real Time Updating Calendar](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
 2. https://data-mining.philippe-fournier-viger.com/the-top-journals-and-conferences-in-data-mining-data-science/
 3. [Top Data Mining & Analysis in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis)
 4. [Top Artificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
