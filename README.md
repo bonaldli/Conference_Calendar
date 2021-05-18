@@ -1,8 +1,9 @@
 # Conference_Calendar
 ----------------------------------------------
 **AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, 
+**GS**: Google Scholar, **MS**: Microsoft
 
-| Month | Conference | DDL (Conference Day) | Area | Google Scholar/Microsoft Ranking | CCF Ranking | Website |
+| Month | Conference | DDL (Conference Day) | Area | GS/MS Ranking | CCF Ranking | Website |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | **Jan** | IJCAI | Jan 18 (Aug 21) | AI, ML, DM | 10 | A | [icjai2022](https://www.ijcai.org/future_conferences) |
 | **Feb** | ACL | Feb 01 (Aug 01) | NLP | 1 | A | [acl2021](https://2021.aclweb.org) |
