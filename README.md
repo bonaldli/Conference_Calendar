@@ -1,4 +1,4 @@
-# Conference_Calendar
+# Chapter 1: Conference Calendar
 ----------------------------------------------
 **AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, 
 **GS**: Google Scholar, **MS**: Microsoft
@@ -35,6 +35,12 @@
 | - | **ICDE-PhD**  | p5+1 (ref) | Nov 30 (Apr 10) | AI, ML, DM | 2 | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) |
 | **Dec** | - | - | - | - | - | - | - |
 
+# Chapter 2: Top-Tier Journals
+----------------------------------------------
+| Name | Intro | Area | IF | Review Time | GS/MS Ranking | CCF Ranking | Website |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |
+| Data Mining and Knowledge Discovery, Springer | Journal version of ECML PKDD | DM, ML | 3.670 (2020) | 6 months | 12th | B | [DMKD](https://www.springer.com/journal/10618/?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JUDrJ9sNNqMcQDBK27Nit5py6ucOPEKHoZNcei8Z-5anyDTImy4ei8aAp-lEALw_wcB)|
+|ACM Transactions on Knowledge Discovery from Data| Journal version of ACM KDD | DM, ML | 2.713 (2020) | 6 months | 15th | B | [ACM-TKDD](https://dl.acm.org/journal/tkdd)|
 
 Reference:
 1. [Real Time Updating Calendar](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
