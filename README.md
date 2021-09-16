@@ -40,7 +40,7 @@
 | Name | Intro | Area | IF (2020) | Review Time | GS/MS Ranking | CCF Ranking | Website |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |
 | Data Mining and Knowledge Discovery, Springer | Journal version of ECML PKDD | DM, ML | 3.670 | 6 months | 12th | B | [DMKD](https://www.springer.com/journal/10618/?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JUDrJ9sNNqMcQDBK27Nit5py6ucOPEKHoZNcei8Z-5anyDTImy4ei8aAp-lEALw_wcB)|
-|ACM Transactions on Knowledge Discovery from Data| Journal version of ACM KDD | DM, ML | 2.713 | 6 months | 15th | B | [ACM-TKDD](https://dl.acm.org/journal/tkdd)|
+|ACM Transactions on Knowledge Discovery from Data| Journal version of ACM KDD | DM, ML | 2.713 | [3 months](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8412) | 15th | B | [ACM-TKDD](https://dl.acm.org/journal/tkdd)|
 
 Reference:
 1. [Real Time Updating Calendar](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
