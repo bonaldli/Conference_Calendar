@@ -39,7 +39,7 @@
 ----------------------------------------------
 | Name | Intro | Area | IF (2020) | Review Time | GS/MS Ranking | CCF Ranking | Website |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |
-| Data Mining and Knowledge Discovery, Springer | Journal version of ECML PKDD | DM, ML | 3.670 | [1 year](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2229) | 12th | B | [DMKD](https://www.springer.com/journal/10618/?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JUDrJ9sNNqMcQDBK27Nit5py6ucOPEKHoZNcei8Z-5anyDTImy4ei8aAp-lEALw_wcB)|
+| Data Mining and Knowledge Discovery, Springer | Journal version of ECML PKDD | DM, ML | 3.670 | [1-3 month](https://www.springer.com/journal/10618/submission-guidelines?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JUDrJ9sNNqMcQDBK27Nit5py6ucOPEKHoZNcei8Z-5anyDTImy4ei8aAp-lEALw_wcB#Instructions%20for%20Authors_Frequently%20Asked%20Questions), [6 month](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2229) | 12th | B | [DMKD](https://www.springer.com/journal/10618/?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JUDrJ9sNNqMcQDBK27Nit5py6ucOPEKHoZNcei8Z-5anyDTImy4ei8aAp-lEALw_wcB)|
 |ACM Transactions on Knowledge Discovery from Data| Journal version of ACM KDD | DM, ML | 2.713 | [3 months](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8412) | 15th | B | [ACM-TKDD](https://dl.acm.org/journal/tkdd)|
 
 Reference:
