@@ -8,7 +8,7 @@
 | **Jan** | IJCAI | - | Jan 18 (Aug 21) | AI, ML, DM | 10 | A | [icjai2022](https://www.ijcai.org/future_conferences) |
 | **Feb** | ACL | - | Feb 01 (Aug 01) | NLP | 1 | A | [acl2021](https://2021.aclweb.org) |
 | - | SIGIR | - | Feb 02 (Jul 11) | AI, ML, DM | - | A | [sigir2021](https://sigir.org/sigir2021/) |
-| - | ICML  | - | Feb 04 (Jul 18) | AI, ML, DM | 3 | A | [icml2022](https://icml.cc/Conferences/FutureMeetings) |
+| - | ICML ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)  | - | Feb 04 (Jul 18) | AI, ML, DM | 3 | A | [icml2022](https://icml.cc/Conferences/FutureMeetings) |
 | - | **SIGKDD**  | p9+2 (appdix) | Feb 08 (Aug 14) | AI, ML, DM | 1 | A | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) |
 | **March** | VLDB  | - | Mar 01 (Aug 16) | DM | - | A | [vldb2021](https://vldb.org/2021/) |
 | - | **IEEE CASE**  | p8 | Mar 15 (Aug 23) | Automation | - | - | [case2021](https://case2021.sciencesconf.org/) |
