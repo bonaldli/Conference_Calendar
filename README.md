@@ -50,6 +50,6 @@ Reference:
 5. [H5 Index  Artificial Intelligence in Google Scholar](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
 6. [H5 Index  Computational Linguistics in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)
 7. [H5 Index  Computer Vision & Pattern Recognition  in Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-8. https://github.com/bonaldli/Conference_Calender/blob/main/top_tier_conference.pdf
-
+8. [Table of All Vertices](https://github.com/bonaldli/Conference_Calender/blob/main/top_tier_conference.pdf)
+9. [Quora Answer from Prof. Yue in CalTech](https://qr.ae/pGJpoA)
 
