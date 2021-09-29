@@ -32,7 +32,7 @@
 | - | ICLR  | - | Oct 02 (May 04) | NLP | 1 | A | [iclr2021](https://iclr.cc/Conferences/2021) |
 | - | ICRA  | - | Oct 31 (May 30) | Robotics, Automation | - | B | [icra2021](https://www.icra2022.org/) |
 | **Nov** | CVPR  | - | Nov 16 (Jun 21) | CV, Pattern Recognition | 1 | A | [cvpr2021](http://cvpr2021.thecvf.com) |
-| - | **ICDE-PhD**  | p5+1 (ref) | Nov 30 (Apr 10) | AI, ML, DM | 2 | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) |
+| - | **ICDE-PhD Track**  | p5+1 (ref) | Nov 30 (Apr 10) | AI, ML, DM | 2 | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) |
 | **Dec** | - | - | - | - | - | - | - |
 
 # Chapter 2: Top-Tier Journals
