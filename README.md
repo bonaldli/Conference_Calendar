@@ -3,6 +3,9 @@
 **AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, 
 **GS**: Google Scholar, **MS**: Microsoft
 
+Top tier and the ultimate goal: ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+Constant submission and engagement: ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+)
+
 | Month | Conference | Length | DDL (Conference Day) | Area | GS/MS Ranking | CCF Ranking | Website |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Jan** | IJCAI | - | Jan 18 (Aug 21) | AI, ML, DM | 10 | A | [icjai2022](https://www.ijcai.org/future_conferences) |
