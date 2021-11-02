@@ -25,9 +25,9 @@ Back up plan: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 | **Jun** | **IEEE-ICDE-R1** ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | p12-2c | Jun 10 (Dec 20) | DM | 2 | A | [icde2021](https://icde2021.gr/) | - |
 | - | IEEE-ICDM  | p10 | Jun 11 (Dec 07) | DM | 5 | B | [icdm2021](https://icdm2021.auckland.ac.nz/) | - |
 | **Jul** | SIGMOD | p12 | Jul 07 (Jun 20) | DM | - | B | [sigmod2022](https://2021.sigmod.org/index.shtml) | - |
-| - | INFORMS Data Mining Paper Competition | p12-1c | Jul 15 (Oct 20) | DM | - | - | [informs-dm](https://connect.informs.org/data-mining/home) | * well-known in IE field |
-| - | INFORMS QSR Paper Competition | p6-2c | Jul 15 (Oct 24) | Statistics | - | - | [informs-qsr](https://connect.informs.org/qsr/home) | - | * well-known in IE field |
-| **Aug** | INFORMS DMDA Worshop  | p10-1c | Aug 2 (Oct 23) | DM | - | - | [dmda2021](http://meetings2.informs.org/wordpress/anaheim2021/informs-workshop-on-data-mining-decision-analytics/) | * best paper competition and fast track to INFORMS JDS |
+| - | **INFORMS Data Mining Paper Competition** | p12-1c | Jul 15 (Oct 20) | DM | - | - | [informs-dm](https://connect.informs.org/data-mining/home) | * well-known in IE field |
+| - | **INFORMS QSR Paper Competition** | p6-2c | Jul 15 (Oct 24) | Statistics | - | - | [informs-qsr](https://connect.informs.org/qsr/home) | - | * well-known in IE field |
+| **Aug** | **INFORMS DMDA Worshop**  | p10-1c | Aug 2 (Oct 23) | DM | - | - | [dmda2021](http://meetings2.informs.org/wordpress/anaheim2021/informs-workshop-on-data-mining-decision-analytics/) | * best paper competition and fast track to INFORMS JDS |
 | - | WSDM  | - | Aug 16 (Mar 08) | DM | 4 | B | [wsdm2022](http://www.wsdm-conference.org/calls.php) | - |
 | **Sep** | IEEE BigData | - | Sept 05 (Dec 15) | DM | 8 | C | [bigdata2021](http://bigdataieee.org/BigData2021/) | - |
 | - | **AAAI** ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | p7+2 (ref) | Sep 09 (Feb 02) | AI, ML, DM | 4 | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) | * welcome both application and methodoloy work |
