@@ -1,6 +1,7 @@
 # Chapter 1: Conference Calendar
 ----------------------------------------------
-**AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, 
+**AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, **IE**: Industrial Engineering
+
 **GS**: Google Scholar, **MS**: Microsoft
 
 Top tier and the ultimate goal: ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
@@ -17,9 +18,9 @@ Back up plan: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 | - | ICML ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)  | - | Feb 04 (Jul 18) | AI, ML, DM | 3 | A+ | [icml2022](https://icml.cc/Conferences/FutureMeetings) | * methodological contributions |
 | - | **SIGKDD** ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | p9+2 (appdix) | Feb 08 (Aug 14) | AI, ML, DM | 1 | A+ | [sigkdd2022](https://www.kdd.org/calls/view/call-for-bids-to-host-kdd-2022-and-later) | - |
 | **March** | VLDB  | - | Mar 01 (Aug 16) | DM | - | A | [vldb2021](https://vldb.org/2021/) | - |
-| - | **IEEE CASE**  | p8 | Mar 15 (Aug 23) | Automation | - | - | [case2021](https://case2021.sciencesconf.org/) | * link to RA-L and fast track to T-ASE |
+| - | **IEEE CASE** ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | p8 | Mar 15 (Aug 23) | Automation | - | - | [case2021](https://case2021.sciencesconf.org/) | * link to RA-L and fast track to T-ASE |
 | - | ICCV | - | Mar 17 (Oct 11) | CV | 2 | A+ | [iccv2021](http://iccv2021.thecvf.com) | - |
-| - | **ECML PKDD** | p16-c1 | Mar 21 (Sept 13) | ML, DM | -  | B | [ecmlpkdd2022]() | * journal track to DMKD, ML in Oct, Dec Year-1, Feb Year |
+| - | **ECML PKDD** ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | p16-c1 | Mar 21 (Sept 13) | ML, DM | -  | B | [ecmlpkdd2022](https://2022.ecmlpkdd.org/) | * journal track to DMKD, ML in Oct, Dec Year-1, Feb Year |
 | **Apr** | - | - | - | - | - | - | - |
 | **May** | CIKM | p9 | May 19 (Nov 01) | DM | 3 | B | [ickm2021](https://www.cikm2021.org) | - |
 | - | NeurIPS ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | p8 | May 19 (Dec 06) | ML, AI | 2 | A+ | [nips2021](https://nips.cc/) | * theoretical contributions with mathematical proofs |
@@ -38,7 +39,8 @@ Back up plan: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 | - | WWW  | - | Oct 19 (Apr 19) | AI, ML, DM | - | A | [www2021](https://www2021.thewebconf.org/) | * not limited to web search |
 | - | ICLR  | - | Oct 02 (May 04) | NLP | 1 | A+ | [iclr2021](https://iclr.cc/Conferences/2021) | * deep learning framework |
 | - | ICRA  | - | Oct 31 (May 30) | Robotics, Automation | - | B | [icra2021](https://www.icra2022.org/) | - |
-| **Nov** | CVPR  | - | Nov 16 (Jun 21) | CV, Pattern Recognition | 1 | A+ | [cvpr2021](http://cvpr2021.thecvf.com) | - |
+| **Nov** | IISE Annual Conference | p6 | Nov 1 (May 20) | IE | - | - | [iise2022](https://www.iise.org/Annual/) | * well-known in IE, smaller than INFORMS, 6-page conference proceedings|
+| - | CVPR  | - | Nov 16 (Jun 21) | CV, Pattern Recognition | 1 | A+ | [cvpr2021](http://cvpr2021.thecvf.com) | - |
 | - | **ICDE-PhD Track**  | p5+1 (ref) | Nov 30 (Apr 10) | AI, ML, DM | 2 | A | [icde-phd2021](https://icde2021.gr/call-for-phd-symposium/) | * quite easy, 40% acceptance rate |
 | **Dec** | - | - | - | - | - | - | - | - |
 
