@@ -21,8 +21,7 @@ Back up plan: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 | - | ICCV | - | Mar 17 (Oct 11) | CV | 2 | A | [iccv2021](http://iccv2021.thecvf.com) |
 | **Apr** | - | - | - | - | - | - | - |
 | **May** | CIKM | p9 | May 19 (Nov 01) | DM | 3 | B | [ickm2021](https://www.cikm2021.org) |
-| - | NeurIPS ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
- | p8 | May 19 (Dec 06) | ML, AI | 2 | A+ | [nips2021](https://nips.cc/) |
+| - | NeurIPS ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | p8 | May 19 (Dec 06) | ML, AI | 2 | A+ | [nips2021](https://nips.cc/) |
 | **Jun** | **IEEE-ICDE-R1** ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | p12-2c | Jun 10 (Dec 20) | DM | 2 | A | [icde2021](https://icde2021.gr/) |
 | - | IEEE-ICDM  | p10 | Jun 11 (Dec 07) | DM | 5 | B | [icdm2021](https://icdm2021.auckland.ac.nz/) |
 | **Jul** | SIGMOD | p12 | Jul 07 (Jun 20) | DM | - | B | [sigmod2022](https://2021.sigmod.org/index.shtml) |
