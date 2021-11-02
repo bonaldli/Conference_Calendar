@@ -1,8 +1,8 @@
 # Chapter 1: Conference Calendar
 ----------------------------------------------
-**AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, **IE**: Industrial Engineering
+Domain areas for short: **AI**: Artificial Intelligence, **ML**: Machine Learning, **DM**: Data Mining, **CV**: Computer Vision, **NLP**: Natural Language Process, **IE**: Industrial Engineering
 
-**GS**: Google Scholar, **MS**: Microsoft
+Scholar platform for short: **GS**: Google Scholar, **MS**: Microsoft
 
 Top tier and the ultimate goal: ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
