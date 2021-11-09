@@ -12,7 +12,7 @@ Back up plan: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 
 | Month | Conference | Length | DDL (Conference Day) | Area | GS/MS Ranking | CCF Ranking | Website | Comments |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Jan** | IJCAI ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | - | Jan 18 (Aug 21) | AI, ML, DM | 10 | A | [icjai2022](https://www.ijcai.org/future_conferences) | * reputation diluted a bit but still prestigious |
+| **Jan** | IJCAI ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | 6+1 | Jan 18 (Aug 21) | AI, ML, DM | 10 | A | [icjai2022](https://www.ijcai.org/future_conferences) | * reputation diluted a bit but still prestigious |
 | **Feb** | ACL | - | Feb 01 (Aug 01) | NLP | 1 | A | [acl2021](https://2021.aclweb.org) |  - |
 | - | SIGIR | - | Feb 02 (Jul 11) | AI, ML, DM | - | A | [sigir2021](https://sigir.org/sigir2021/) | - |
 | - | ICML ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)  | - | Feb 04 (Jul 18) | AI, ML, DM | 3 | A+ | [icml2022](https://icml.cc/Conferences/FutureMeetings) | * methodological contributions |
