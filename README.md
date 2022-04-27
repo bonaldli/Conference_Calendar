@@ -10,7 +10,7 @@ Constant submission and engagement: ![#28b463](https://via.placeholder.com/15/28
 
 Back up plan: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 
-| Month | Conference | Length | DDL (Conference Day) | Area | GS/MS Ranking | CORE'21 | CCF Ranking | Website | Comments |
+| Month | Conference | Length | DDL (Conference Day) | Area | GS/MS Ranking | CORE | CCF Ranking | Website | Comments |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: |
 | **Jan** | **IJCAI** ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+) | p6+1 | Jan 14 (Aug 21) | AI, ML, DM | 10 | A* | A | [icjai2022](https://www.ijcai.org/future_conferences) | * reputation diluted a bit but still prestigious |
 | - | SIGIR | - | Jan 28 (Jul 11) | AI, ML, DM | - | A* | A | [sigir2022](https://sigir.org/sigir2022/) | - |
