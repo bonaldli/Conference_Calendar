@@ -5,7 +5,6 @@ Domain areas for short: **AI**: Artificial Intelligence, **ML**: Machine Learnin
 Scholar platform for short: **GS**: Google Scholar, **MS**: Microsoft
 
 Top tier and the ultimate goal: ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 Constant submission and engagement: ![#28b463](https://via.placeholder.com/15/28b463/000000?text=+)
 
