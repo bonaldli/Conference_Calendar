@@ -25,7 +25,8 @@ Back up plan:
 | **May** | CIKM | p9 | May 19 (Nov 01) | DM | 3 | A | B | [ickm2021](https://www.cikm2021.org) | - |
 | - | NeurIPS | p8 | May 19 (Dec 06) | ML, AI | 2 | A* | A+ | [nips2021](https://nips.cc/) | * theoretical contributions with mathematical proofs |
 | **Jun** | **IEEE-ICDE-R1** | p12-2c | Jun 10 (Dec 20) | DM | 2 | A* | A | [icde2021](https://icde2021.gr/) | - |
-| - | IEEE-ICDM  | p10 | Jun 11 (Dec 07) | DM | 5 | A* | B | [icdm2021](https://icdm2021.auckland.ac.nz/) | - |
+| - | IEEE-ICDM  | p10+2 | Jun 09 (Nov 13-16) | Graph ML | - | A | - | [SIGSPATIAL](https://sigspatial2023.sigspatial.org/cfp/) | - |
+| - | ACM-SIGSPATIAL  | p10 | Jun 11 (Dec 07) | DM | 5 | A* | B | [icdm2021](https://icdm2021.auckland.ac.nz/) | - |
 | **Jul** | SIGMOD | p12 | Jul 07 (Jun 20) | DM | - | A* | B | [sigmod2022](https://2021.sigmod.org/index.shtml) | - |
 | - | **INFORMS Data Mining Paper Competition** | p12-1c | Jul 15 (Oct 20) | DM | - | - | - | [informs-dm](https://connect.informs.org/data-mining/home) | * well-known in IE field |
 | - | **INFORMS QSR Paper Competition** | p6-2c | Jul 15 (Oct 24) | Statistics | - | - | - | [informs-qsr](https://connect.informs.org/qsr/home) | - | * well-known in IE field |
