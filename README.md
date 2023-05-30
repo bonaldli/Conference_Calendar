@@ -24,7 +24,7 @@ Back up plan:
 | **Apr** | - | - | - | - | - | - | - |
 | **May** | CIKM | p9 | May 19 (Nov 01) | DM | 3 | A | B | [ickm2021](https://www.cikm2021.org) | - |
 | - | NeurIPS | p8 | May 19 (Dec 06) | ML, AI | 2 | A* | A+ | [nips2021](https://nips.cc/) | * theoretical contributions with mathematical proofs |
-| **Jun** | KDD' UrbanComputing | p9/p5 | Jun 06 (Aug 07) | ML | - | A | - | [urbcomp2023](http://urban-computing.com/urbcomp2023/) | - |
+| **Jun** | KDD' UrbComp | p9/p5 | Jun 06 (Aug 07) | ML | - | A | - | [urbcomp2023](http://urban-computing.com/urbcomp2023/) | - |
 | - | ACM-SIGSPATIAL  | p10+2 | Jun 09 (Nov 13-16) | Graph ML | - | A | - | [SIGSPATIAL](https://sigspatial2023.sigspatial.org/cfp/) | - |
 | **Jul** | **IEEE-ICDM**  | p10 | Jul 01 (Dec 01-04) | DM | 5 | A* | B | [icdm2023](http://www.cloud-conf.net/icdm2023/index.html) | - |
 | - | SIGMOD | p12 | Jul 07 (Jun 20) | DM | - | A* | B | [sigmod2022](https://2021.sigmod.org/index.shtml) | - |
