@@ -31,7 +31,7 @@ Back up plan:
 | - | **INFORMS Data Mining Paper Competition** | p12-1c | Jul 15 (Oct 20) | DM | - | - | - | [informs-dm](https://connect.informs.org/data-mining/home) | * well-known in IE field |
 | - | **INFORMS QSR Paper Competition** | p6-2c | Jul 15 (Oct 24) | Statistics | - | - | - | [informs-qsr](https://connect.informs.org/qsr/home) | - | * well-known in IE field |
 | - | **IEEE-ICDE-R1**  | p12-2c | Jul 28 (Apr 16-19) | DM | 5 | A* | A | [icde2024](https://icde2024.github.io/CFP_research.html) | - |
-| **Aug** | **INFORMS DMDA Worshop**  | p10-1c | Aug 2 (Oct 23) | DM | - | - | - | [dmda2021](http://meetings2.informs.org/wordpress/anaheim2021/informs-workshop-on-data-mining-decision-analytics/) | * best paper competition and fast track to INFORMS JDS |
+| **Aug** | **INFORMS DMDA Workshop**  | p10-1c | Aug 2 (Oct 23) | DM | - | - | - | [dmda2021](http://meetings2.informs.org/wordpress/anaheim2021/informs-workshop-on-data-mining-decision-analytics/) | * best paper competition and fast track to INFORMS JDS |
 | - | WSDM  | - | Aug 16 (Mar 08) | DM | 4 | A* | B | [wsdm2022](http://www.wsdm-conference.org/calls.php) | - |
 | **Sep** | IEEE BigData | - | Sept 05 (Dec 15) | DM | 8 | B | C | [bigdata2021](http://bigdataieee.org/BigData2021/) | - |
 | - | **AAAI** | p7+2 (ref) | Sep 09 (Feb 02) | AI, ML, DM | 4 | A* | A | [aaai2021](https://aaai.org/Conferences/AAAI-21) | * welcome both application and methodoloy work |
@@ -40,6 +40,7 @@ Back up plan:
 | - | WWW  | - | Oct 19 (Apr 19) | AI, ML, DM | - | A* | A | [www2021](https://www2021.thewebconf.org/) | * not limited to web search |
 | - | ICLR  | - | Oct 02 (May 04) | NLP | 1 | A* | A+ | [iclr2021](https://iclr.cc/Conferences/2021) | * deep learning framework |
 | - | ICRA  | - | Oct 31 (May 30) | Robotics, Automation | - | B | B | [icra2021](https://www.icra2022.org/) | - |
+| - | AAMAS  | - | Oct 16 (May 20) | Robotics, Automation | - | A | A | [aamas2025](https://aamas2025.org/) | - |
 | **Nov** | IISE Annual Conference | p6 | Nov 1 (May 20) | IE | - | - | - | [iise2022](https://www.iise.org/Annual/) | * well-known in IE, smaller than INFORMS, 6-page conference proceedings|
 | - | CVPR  | - | Nov 16 (Jun 21) | CV, Pattern Recognition | 1 | A* | A+ | [cvpr2021](http://cvpr2021.thecvf.com) | - |
 | - | **IEEE-ICDE-R2**  | p12-2c | Jul 28 (Apr 16-19) | DM | 5 | A* | A | [icdm2024](https://icde2024.github.io/CFP_research.html) | - |
